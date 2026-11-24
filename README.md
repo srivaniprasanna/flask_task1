@@ -1,0 +1,1 @@
+Built a Student Management System using Flask while learning web development. It helps to add, view, update and delete student details like name, roll number, course and marks. Learned CRUD operations, API creation and database handling through this mini project.
