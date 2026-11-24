@@ -1,0 +1,4 @@
+database name: student_management_system
+table_name: student
+
+create table student(id int primary key auto_increment,firstname varchar(100) not null,lastname varchar(100) not null,email varchar(100) not null unique,mobileno bigint not null unique,location varchar(100) not null);
